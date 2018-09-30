@@ -1,2 +1,2 @@
-# Networks_Lab
-This is a repository for storing computer networks lab programs. 
+# NS 2
+NS 2 Programs . Network Simulations . Basics 
